@@ -21,7 +21,6 @@ The rise of object-oriented programming introduced a paradigm shift in software 
 Traditional software development followed the Waterfall model, which was rigid and slow. The Agile Manifesto (2001) introduced iterative development, continuous feedback, and flexibility in responding to changes. This approach led to faster software delivery and improved collaboration between developers and stakeholders. Later, DevOps emerged, integrating development and operations to streamline software deployment, automate testing, and enhance system reliability. Together, Agile and DevOps revolutionized how software is built and maintained in the modern era.
 
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
         1. Planning – This phase involves defining project goals, feasibility analysis, resource allocation, and risk assessment. It sets the foundation for the entire development process.
 
